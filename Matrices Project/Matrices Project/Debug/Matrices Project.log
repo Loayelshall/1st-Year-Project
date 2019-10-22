@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(51,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(304,44): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(316,44): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(323,44): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(862,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(888,88): warning C4244:  'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(888,65): warning C4244:  'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(904,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(915,88): warning C4244:  'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(915,65): warning C4244:  'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(925,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(939,88): warning C4244:  'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Matrices Project\Source.cpp(939,65): warning C4244:  'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  Matrices Project.vcxproj -> C:\Users\Loay Elshall\Documents\GitHub\1st Year Project\Matrices Project\Debug\Matrices Project.exe
